@@ -65,6 +65,7 @@ $mainline_campaign_textdomains = [
 	'wesnoth-l',
 	'wesnoth-low',
 	'wesnoth-nr',
+	'wesnoth-pap',
 	'wesnoth-sof',
 	'wesnoth-sota',
 	'wesnoth-sotbe',
